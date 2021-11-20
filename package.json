@@ -1,18 +1,18 @@
 {
-  "name": "@venomswap/lib",
-  "version": "1.0.0",
-  "description": "📖 Solidity libraries that are shared across Venomswap contracts",
+  "name": "@foxswap/lib",
+  "version": "1.0.1",
+  "description": "📖 Solidity libraries that are shared across FoxSwap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://venomdao.org",
+  "homepage": "https://farmersonly.fi",
   "repository": {
-    "url": "https://github.com/VenomProtocol/venomswap-lib",
+    "url": "https://github.com/FarmersOnlyFi/foxswap-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/VenomProtocol/venomswap-lib/issues"
+    "url": "https://github.com/FarmersOnlyFi/foxswap-lib/issues"
   },
   "engines": {
     "node": ">=10"
